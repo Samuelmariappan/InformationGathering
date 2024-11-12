@@ -1,4 +1,4 @@
-# EX.NO:02
+# EX.NO-02
 # InformationGathering
 
 Information Gathering Techiques
